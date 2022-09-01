@@ -18,5 +18,5 @@ Enjoy the game!🏆
 </p>
 <br><br>
 <p align="center">
-Collaborator: <a href= "https://github.com/farkasberni8"> 👸Bernadett Farkas</a>
+Collaborator: <a href= "https://github.com/farkasberni8"> 👸 Bernadett Farkas</a>
   </p>

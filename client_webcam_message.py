@@ -3,10 +3,11 @@ import socket
 import struct
 import pickle
 
+
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client_socket.connect(('10.115.73.36', 1024))
-# client_socket.connect(('10.115.73.96', 3480))
-# client_socket.connect(('10.115.73.96', 8485))
+host_ip = '**.***.**.**'
+host_port = '****'
+client_socket.connect((host_ip, host_port))
 
 cam = cv2.VideoCapture(0)
 encode_param=[int(cv2.IMWRITE_JPEG_QUALITY),95]

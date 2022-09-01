@@ -13,7 +13,7 @@ Enjoy the game!🏆
 <br>
 <p>
 <p align="center">
-⚙ Architecture of the volleyball game made by Draw.io:
+⚙ Architecture of the volleyball game made in Draw.io:
 <img src="https://github.com/farkasberni8/Volleyball_game_with_hand_tracking/blob/6d15f5c99d2e0f8f10330073d74ec777c4bf4c43/inputs/volleyball_game_diagaram.png" width="700" height="430"/>
 </p>
 <br><br>
